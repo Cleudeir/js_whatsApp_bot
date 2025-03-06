@@ -1,0 +1,7 @@
+POST http://localhost:3000/send HTTP/1.1
+content-type: application/json
+
+{
+    "number": "553191599292",
+    "message": "Teste bot"
+}
